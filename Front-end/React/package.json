@@ -45,7 +45,7 @@
     "html-webpack-plugin": "*",
     "ignore-styles": "^5.0.1",
     "mini-css-extract-plugin": "*",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "optimize-css-assets-webpack-plugin": "*",
     "postcss-loader": "*",
     "postcss-preset-env": "*",
